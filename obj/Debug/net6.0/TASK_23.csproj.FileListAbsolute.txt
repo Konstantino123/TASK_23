@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\bin\Debug\net6.0\TASK_23.exe
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\bin\Debug\net6.0\TASK_23.deps.json
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\bin\Debug\net6.0\TASK_23.runtimeconfig.json
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\bin\Debug\net6.0\TASK_23.dll
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\bin\Debug\net6.0\TASK_23.pdb
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.AssemblyInfo.cs
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.dll
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\refint\TASK_23.dll
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.pdb
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\TASK_23.genruntimeconfig.cache
+D:\USERDATA\Desktop\хочу стать умней\Task_23\TASK_23\obj\Debug\net6.0\ref\TASK_23.dll
